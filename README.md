@@ -11,7 +11,7 @@ Recommendations on patch size and optimizer choices based on extensive experimen
 
 
 ## Results:
-Our hybrid model achieves remarkable performance, particularly with the 4x4 patch size.
+Our hybrid model achieves remarkable performance, particularly with the 4x4 patch size and it was mostly trained on cifar10 and cifar100
 
 ## Usage:
 Easy-to-use scripts and notebooks are provided for training and evaluating the model on your own datasets.
